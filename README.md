@@ -1,6 +1,6 @@
 # 🚀 DevOps Learning Journey
 
-Welcome to my DevOps learning repository.
+Welcome to my DevOps learning  repository.
 
 This repository contains my complete DevOps learning notes, commands, interview questions, troubleshooting guides, and projects.
 

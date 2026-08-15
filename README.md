@@ -17,8 +17,8 @@ This repository contains my complete DevOps learning notes, commands, interview 
 | Jenkins | ✅ Completed |
 | Maven |  Learning |
 | Nexus | ⏳ Pending |
-| Docker | ⏳ Pending |
-| Kubernetes | ⏳ Pending |
+| Docker | ✅ Completed |
+| Kubernetes | ✅ Completed |
 | Terraform | ⏳ Pending |
 | Ansible | ⏳ Pending |
 

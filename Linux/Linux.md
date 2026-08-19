@@ -1,6 +1,6 @@
 # 🐧 Linux for DevOps
 
-## What is Linux?
+## What is Linux? 
 Linux is an open-source operating system widely used for servers, cloud computing, containers, and DevOps.
 
 # Linux File System
